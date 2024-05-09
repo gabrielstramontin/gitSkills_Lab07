@@ -1,5 +1,4 @@
 <header>
-
 # Connect the dots in a GitHub Repo (Lab 07)
 </header>
 
