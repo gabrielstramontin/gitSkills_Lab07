@@ -8,7 +8,7 @@ In this course, you've learned a lot about finding and sharing information:
 - Within a GitHub repository, you can find history about what changes were made, and more importantly, _why_ changes were made.
 - Alos, you've learned how to find conversations, commits, and projects.
 
-### What's next?
+#### What's next?
 You can enable GitHub Pages and see `docs/index.html` as a website!
 1. Replace `USERNAME` with your GitHub username and `REPONAME` with your GitHub repository name in `docs/index.html`.
 2. Under your repository name at the upper right, click :gear: **Settings**.
